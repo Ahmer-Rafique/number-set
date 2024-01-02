@@ -13,8 +13,6 @@ const Number = () =>
             alert("you did not decrease less then zero")
         }
     }
-    
-
   return (
     <div  className="flex justify-center items-center mt-52 ">
      <div className=" py-9 px-9 outline  outline-blue-900 space-y-4 ">
