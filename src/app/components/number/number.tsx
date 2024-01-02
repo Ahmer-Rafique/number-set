@@ -9,8 +9,7 @@ const Number = () =>
     const setdecrese = ()=>{
         if (increease > 0){
             setIcrease(increease-1)
-        }else{
-            alert("you did not decrease less then zero")
+        }else{         alert("you did not decrease less then zero")
         }
     }
   return (
